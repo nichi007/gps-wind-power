@@ -1,0 +1,10 @@
+{
+  "name": "WIND / PULSE",
+  "short_name": "WIND / PULSE",
+  "description": "現在地の風況から発電量をシミュレーション",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5faf7",
+  "theme_color": "#087f8c",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
